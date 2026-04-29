@@ -17,15 +17,6 @@ I care about building useful software with clear interfaces, reliable automation
 
 ---
 
-## Working On
-
-- AI-assisted development workflows
-- Automation for repetitive engineering tasks
-- Clean command-line tools and developer utilities
-- Systems that are easy to operate, debug, and extend
-
----
-
 ## Toolbox
 
 <p align="center">
@@ -37,24 +28,6 @@ I care about building useful software with clear interfaces, reliable automation
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git" />
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AstralSolipsism&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AstralSolipsism&theme=tokyonight" alt="Most committed languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AstralSolipsism&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AstralSolipsism&theme=tokyonight" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AstralSolipsism&theme=tokyonight&utcOffset=8" alt="Productive time" />
 </p>
 
 ---
