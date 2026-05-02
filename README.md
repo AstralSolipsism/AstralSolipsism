@@ -6,7 +6,7 @@
 
 ## Hi, I'm AstralSolipsism
 
-I care about building useful software with clear interfaces, reliable automation, and practical AI-assisted workflows.
+Just learning.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%20Tooling-58A6FF?style=for-the-badge" alt="AI Tooling" />
