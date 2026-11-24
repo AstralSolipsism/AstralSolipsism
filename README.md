@@ -29,7 +29,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/ui/nav-chronicle-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="assets/ui/nav-chronicle-light.svg" />
-      <img src="assets/ui/nav-chronicle-dark.svg" alt="CODEX" height="32" />
+      <img src="assets/ui/nav-chronicle-dark.svg" alt="JOURNAL" height="32" />
     </picture>
   </a>&nbsp;
   <a href="#user-content-trail">
@@ -93,9 +93,11 @@
 </details>
 
 <details>
-<summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/ico-chronicle-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/ui/ico-chronicle-light.svg" /><img src="assets/ui/ico-chronicle-dark.svg" alt="" width="15" height="15" align="absmiddle" /></picture>&nbsp; <strong>[ CODEX ]</strong> — Margin Notes</summary>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/ico-chronicle-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/ui/ico-chronicle-light.svg" /><img src="assets/ui/ico-chronicle-dark.svg" alt="" width="15" height="15" align="absmiddle" /></picture>&nbsp; <strong>[ JOURNAL ]</strong> — Margin Notes</summary>
 
-Mostly tinkering with AI tooling and small systems that run on their own. Still learning the craft.
+Trying to piece together a real place for agents to live, and a whole life to spend in it.
+
+Still early, still learning the craft.
 
 </details>
 

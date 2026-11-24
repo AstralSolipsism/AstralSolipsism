@@ -14,10 +14,10 @@
   <line x1="538" y1="18" x2="538" y2="88" stroke="#273144" stroke-width="1" stroke-dasharray="3 3"/>
 
   <text x="40" y="31" fill="#f0cb7a" class="k">CLASS</text>
-  <text x="112" y="31" fill="#e6edf3" class="v">Archivist · Systems &amp; AI</text>
+  <text x="112" y="31" fill="#e6edf3" class="v">Planar Archivist</text>
 
   <text x="40" y="57" fill="#f0cb7a" class="k">DOMAIN</text>
-  <text x="112" y="57" fill="#94a3b8" class="m">AI Agents &amp; Systems Craft</text>
+  <text x="112" y="57" fill="#94a3b8" class="m">Worldbuilding &amp; Agents</text>
 
   <text x="40" y="83" fill="#f0cb7a" class="k">MOTTO</text>
   <text x="112" y="83" fill="#7dd3fc" class="q">"Build quietly, ship clearly."</text>

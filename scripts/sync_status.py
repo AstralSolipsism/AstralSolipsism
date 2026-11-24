@@ -80,10 +80,10 @@ def build_status_svg(contributions: int, theme: str) -> str:
   <line x1="538" y1="18" x2="538" y2="88" stroke="{dash}" stroke-width="1" stroke-dasharray="3 3"/>
 
   <text x="40" y="31" fill="{gold}" class="k">CLASS</text>
-  <text x="112" y="31" fill="{tx}" class="v">Archivist · Systems &amp; AI</text>
+  <text x="112" y="31" fill="{tx}" class="v">Planar Archivist</text>
 
   <text x="40" y="57" fill="{gold}" class="k">DOMAIN</text>
-  <text x="112" y="57" fill="{mu}" class="m">AI Agents &amp; Systems Craft</text>
+  <text x="112" y="57" fill="{mu}" class="m">Worldbuilding &amp; Agents</text>
 
   <text x="40" y="83" fill="{gold}" class="k">MOTTO</text>
   <text x="112" y="83" fill="{teal}" class="q">"Build quietly, ship clearly."</text>
