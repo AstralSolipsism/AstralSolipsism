@@ -3,8 +3,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.webp" />
     <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.webp" />
     <img src="assets/hero-dark.webp" alt="AstralSolipsism — Worldweaver at the edge of the Astral Sea" width="100%" />
-  </picture><br/>
-  <picture>
+  </picture><br/><a id="realms"></a><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/status-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/status-light.svg" />
     <img src="assets/status-dark.svg" alt="Planar Status HUD" width="100%" />
@@ -12,35 +11,35 @@
 </p>
 
 <p align="center">
-  <a href="#realms">
+  <a href="#user-content-realms">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/ui/nav-realms-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="assets/ui/nav-realms-light.svg" />
       <img src="assets/ui/nav-realms-dark.svg" alt="REALMS" height="32" />
     </picture>
   </a>&nbsp;
-  <a href="#explore">
+  <a href="#user-content-artifacts">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/ui/nav-artifacts-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="assets/ui/nav-artifacts-light.svg" />
       <img src="assets/ui/nav-artifacts-dark.svg" alt="ARTIFACTS" height="32" />
     </picture>
   </a>&nbsp;
-  <a href="#explore">
+  <a href="#user-content-chronicle">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/ui/nav-chronicle-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="assets/ui/nav-chronicle-light.svg" />
       <img src="assets/ui/nav-chronicle-dark.svg" alt="CHRONICLE" height="32" />
     </picture>
   </a>&nbsp;
-  <a href="#trail">
+  <a href="#user-content-trail">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/ui/nav-trail-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="assets/ui/nav-trail-light.svg" />
       <img src="assets/ui/nav-trail-dark.svg" alt="ASTRAL TRAIL" height="32" />
     </picture>
   </a>&nbsp;
-  <a href="#contact">
+  <a href="#user-content-contact">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/ui/nav-contact-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="assets/ui/nav-contact-light.svg" />
@@ -49,9 +48,8 @@
   </a>
 </p>
 
-<a id="realms"></a>
 <p align="center">
-  <picture>
+  <a id="artifacts"></a><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/ui/sec-realms-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/ui/sec-realms-light.svg" />
     <img src="assets/ui/sec-realms-dark.svg" alt="MANIFESTED REALMS" width="100%" />
@@ -59,7 +57,7 @@
 </p>
 
 <p align="center">
-  <picture>
+  <a id="chronicle"></a><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/ui/realms-reserved-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/ui/realms-reserved-light.svg" />
     <img src="assets/ui/realms-reserved-dark.svg" alt="Realms in Formation — Reserved Slot" width="100%" />
@@ -75,9 +73,8 @@
   | **[Project Name](https://github.com/AstralSolipsism/repo)** | One-line description of the realm | `ACTIVE` |
 -->
 
-<a id="explore"></a>
 <p align="center">
-  <picture>
+  <a id="trail"></a><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/ui/sec-explore-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/ui/sec-explore-light.svg" />
     <img src="assets/ui/sec-explore-dark.svg" alt="EXPLORE THE CITADEL" width="100%" />
@@ -104,9 +101,8 @@
 
 </details>
 
-<a id="trail"></a>
 <p align="center">
-  <picture>
+  <a id="contact"></a><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/ui/sec-trail-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/ui/sec-trail-light.svg" />
     <img src="assets/ui/sec-trail-dark.svg" alt="STAGE 01 · ASTRAL TRAIL" width="100%" />
@@ -121,7 +117,6 @@
   </picture>
 </p>
 
-<a id="contact"></a>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/ui/savepoint-header-dark.svg" />
