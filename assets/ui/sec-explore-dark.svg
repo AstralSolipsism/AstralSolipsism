@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 896 34" width="896" height="34" role="img" aria-label="EXPLORE THE CITADEL">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 896 34" width="896" height="34" role="img" aria-label="LOADOUT &amp; NOTES">
   <rect width="896" height="34" fill="#0d1117"/>
   <g transform="translate(2, 6)" fill="none" stroke="#f0cb7a" stroke-width="1.25"><path d="M1.5 8C3.3 4.8 5.5 3.4 8 3.4s4.7 1.4 6.5 4.6c-1.8 3.2-4 4.6-6.5 4.6S3.3 11.2 1.5 8Z"/><circle cx="8" cy="8" r="2.1"/><circle cx="8" cy="8" r="0.8" fill="#f0cb7a" stroke="none"/></g>
-  <text x="26" y="19" fill="#f0cb7a" font-family="Georgia,&quot;Times New Roman&quot;,serif" font-size="13" font-weight="700" letter-spacing="1.4">EXPLORE THE CITADEL</text>
-  <text x="894" y="18" text-anchor="end" fill="#94a3b8" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="0.8">ZERO-LATENCY INTERACTION</text>
+  <text x="26" y="19" fill="#f0cb7a" font-family="Georgia,&quot;Times New Roman&quot;,serif" font-size="13" font-weight="700" letter-spacing="1.4">LOADOUT &amp; NOTES</text>
+  <text x="894" y="18" text-anchor="end" fill="#94a3b8" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="0.8">CLICK TO EXPAND</text>
   <line x1="0" y1="30" x2="896" y2="30" stroke="#273144" stroke-width="1"/>
 </svg>

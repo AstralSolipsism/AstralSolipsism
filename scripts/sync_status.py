@@ -80,18 +80,18 @@ def build_status_svg(contributions: int, theme: str) -> str:
   <line x1="538" y1="18" x2="538" y2="88" stroke="{dash}" stroke-width="1" stroke-dasharray="3 3"/>
 
   <text x="40" y="31" fill="{gold}" class="k">CLASS</text>
-  <text x="112" y="31" fill="{tx}" class="v">Worldweaver · Architect of Realms</text>
+  <text x="112" y="31" fill="{tx}" class="v">Builder · Systems &amp; AI</text>
 
   <text x="40" y="57" fill="{gold}" class="k">DOMAIN</text>
-  <text x="112" y="57" fill="{mu}" class="m">Genesis of AI-Native Worlds &amp; Minds</text>
+  <text x="112" y="57" fill="{mu}" class="m">Agents &amp; Practical Systems</text>
 
   <text x="40" y="83" fill="{gold}" class="k">MOTTO</text>
-  <text x="112" y="83" fill="{teal}" class="q">"Weave quietly, manifest clearly."</text>
+  <text x="112" y="83" fill="{teal}" class="q">"Build quietly, ship clearly."</text>
 
-  <text x="558" y="29" fill="{hp_col}" class="g">HP  GENESIS</text>
+  <text x="558" y="29" fill="{hp_col}" class="g">HP  CRAFT</text>
   {hp_segs}
 
-  <text x="558" y="55" fill="{mp_col}" class="g">MP  ARCANA</text>
+  <text x="558" y="55" fill="{mp_col}" class="g">MP  FOCUS</text>
   {mp_segs}
 
   <text x="558" y="81" fill="{exp_col}" class="g">{exp_text}</text>

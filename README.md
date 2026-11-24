@@ -2,11 +2,11 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.webp" />
     <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.webp" />
-    <img src="assets/hero-dark.webp" alt="AstralSolipsism — Worldweaver at the edge of the Astral Sea" width="100%" />
+    <img src="assets/hero-dark.webp" alt="AstralSolipsism — Planar Archive" width="100%" />
   </picture><br/><a id="realms"></a><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/status-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/status-light.svg" />
-    <img src="assets/status-dark.svg" alt="Planar Status HUD" width="100%" />
+    <img src="assets/status-dark.svg" alt="Status HUD" width="100%" />
   </picture>
 </p>
 
@@ -15,21 +15,21 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/ui/nav-realms-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="assets/ui/nav-realms-light.svg" />
-      <img src="assets/ui/nav-realms-dark.svg" alt="REALMS" height="32" />
+      <img src="assets/ui/nav-realms-dark.svg" alt="PROJECTS" height="32" />
     </picture>
   </a>&nbsp;
   <a href="#user-content-artifacts">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/ui/nav-artifacts-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="assets/ui/nav-artifacts-light.svg" />
-      <img src="assets/ui/nav-artifacts-dark.svg" alt="ARTIFACTS" height="32" />
+      <img src="assets/ui/nav-artifacts-dark.svg" alt="LOADOUT" height="32" />
     </picture>
   </a>&nbsp;
   <a href="#user-content-chronicle">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/ui/nav-chronicle-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="assets/ui/nav-chronicle-light.svg" />
-      <img src="assets/ui/nav-chronicle-dark.svg" alt="CHRONICLE" height="32" />
+      <img src="assets/ui/nav-chronicle-dark.svg" alt="NOTES" height="32" />
     </picture>
   </a>&nbsp;
   <a href="#user-content-trail">
@@ -52,7 +52,7 @@
   <a id="artifacts"></a><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/ui/sec-realms-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/ui/sec-realms-light.svg" />
-    <img src="assets/ui/sec-realms-dark.svg" alt="MANIFESTED REALMS" width="100%" />
+    <img src="assets/ui/sec-realms-dark.svg" alt="PROJECTS" width="100%" />
   </picture>
 </p>
 
@@ -60,44 +60,42 @@
   <a id="chronicle"></a><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/ui/realms-reserved-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/ui/realms-reserved-light.svg" />
-    <img src="assets/ui/realms-reserved-dark.svg" alt="Realms in Formation — Reserved Slot" width="100%" />
+    <img src="assets/ui/realms-reserved-dark.svg" alt="Projects — Empty Slot" width="100%" />
   </picture>
 </p>
 
 <!--
-  RESERVED SLOT FOR FLAGSHIP WORKS
-  When a flagship realm is ready to be inscribed, replace the reserved banner above with cards:
+  EMPTY SLOT FOR FEATURED PROJECTS
+  When a project is ready to show, replace the empty-slot banner above with a table:
 
-  | Realm | Domain | Status |
+  | Project | Focus | Status |
   | :--- | :--- | :--- |
-  | **[Project Name](https://github.com/AstralSolipsism/repo)** | One-line description of the realm | `ACTIVE` |
+  | **[Project Name](https://github.com/AstralSolipsism/repo)** | One-line summary | `ACTIVE` |
 -->
 
 <p align="center">
   <a id="trail"></a><picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/ui/sec-explore-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/ui/sec-explore-light.svg" />
-    <img src="assets/ui/sec-explore-dark.svg" alt="EXPLORE THE CITADEL" width="100%" />
+    <img src="assets/ui/sec-explore-dark.svg" alt="LOADOUT & NOTES" width="100%" />
   </picture>
 </p>
 
 <details>
-<summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/ico-artifact-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/ui/ico-artifact-light.svg" /><img src="assets/ui/ico-artifact-dark.svg" alt="" width="15" height="15" align="absmiddle" /></picture>&nbsp; <strong>[ ARTIFACTS &amp; ARCANA ]</strong> — Tongues, Craft &amp; Domains</summary>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/ico-artifact-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/ui/ico-artifact-light.svg" /><img src="assets/ui/ico-artifact-dark.svg" alt="" width="15" height="15" align="absmiddle" /></picture>&nbsp; <strong>[ LOADOUT ]</strong> — Stack &amp; Focus</summary>
 
-| Discipline | Artifacts |
+| Area | Stack |
 | :--- | :--- |
-| **TONGUES** | `Python` &nbsp; `TypeScript` &nbsp; `Rust` &nbsp; `Go` &nbsp; `Vue` |
-| **GENESIS** | `AI-Native Worlds` &nbsp; `Autonomous Agents` &nbsp; `Memory Systems` &nbsp; `MCP` |
-| **CRAFT** | `System Architecture` &nbsp; `Automation` &nbsp; `Developer Experience` |
+| **LANGUAGES** | `Python` &nbsp; `TypeScript` &nbsp; `Rust` &nbsp; `Go` &nbsp; `Vue` |
+| **AI & AGENTS** | `Autonomous Agents` &nbsp; `Memory Systems` &nbsp; `MCP` |
+| **SYSTEMS** | `System Architecture` &nbsp; `Automation` &nbsp; `Developer Experience` |
 
 </details>
 
 <details>
-<summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/ico-chronicle-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/ui/ico-chronicle-light.svg" /><img src="assets/ui/ico-chronicle-dark.svg" alt="" width="15" height="15" align="absmiddle" /></picture>&nbsp; <strong>[ ASTRAL CHRONICLE ]</strong> — On World-Forging</summary>
+<summary><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/ico-chronicle-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/ui/ico-chronicle-light.svg" /><img src="assets/ui/ico-chronicle-dark.svg" alt="" width="15" height="15" align="absmiddle" /></picture>&nbsp; <strong>[ NOTES ]</strong> — About</summary>
 
-> *"Weave quietly, manifest clearly."*
->
-> Standing at the edge of the Astral Plane — shaping living AI-native worlds, autonomous minds, and the quiet systems that sustain them.
+Mostly tinkering with AI tooling and workflow automation. Still learning.
 
 </details>
 
@@ -121,7 +119,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/ui/savepoint-header-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/ui/savepoint-header-light.svg" />
-    <img src="assets/ui/savepoint-header-dark.svg" alt="SAVE POINT · ASTRAL COMMUNION" width="100%" />
+    <img src="assets/ui/savepoint-header-dark.svg" alt="SAVE POINT · CONTACT" width="100%" />
   </picture><br/>
   <a href="mailto:astralsolipsism@outlune.com">
     <picture>
